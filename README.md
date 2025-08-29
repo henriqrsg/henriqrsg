@@ -4,14 +4,10 @@
 
 Sou estudante de **Ciência da Computação** no **Centro Universitário de Brasília (UniCEUB)**, apaixonado por tecnologia, inovação e soluções computacionais. Durante minha jornada acadêmica, venho desenvolvendo projetos práticos nas áreas de desenvolvimento de software, algoritmos e modelagem matemática.
 
-Atualmente atuo em dois cargos importantes:
+Atualmente atuo no cargo de:
 
 - 📊 **Agente de Pesquisas do IBGE**  
   Trabalho diretamente na coleta e análise de dados estatísticos que contribuem para o planejamento e a execução de políticas públicas no Brasil. Essa experiência fortalece minha visão crítica e capacidade de lidar com grandes volumes de dados de forma estruturada.
-
-- 💼 **Gerente Financeiro da Empresa Deserto Dourado**  
-  Responsável pela gestão de recursos, planejamento financeiro e controle orçamentário da empresa. Essa função tem aprimorado minhas habilidades em organização, liderança e tomada de decisões estratégicas.
-
 
 ## 📚 Objetivo deste repositório
 
