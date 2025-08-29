@@ -17,7 +17,7 @@ Este espaço é dedicado ao compartilhamento de projetos, estudos e experiência
 
 <div align="center">
   <img height="147" src="https://github-readme-stats.vercel.app/api?username=henriqrsg&show_icons=true&theme=chartreuse-dark"/>
----
+
 
 ## 📫 Entre em contato:
 
