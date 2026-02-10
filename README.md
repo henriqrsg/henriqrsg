@@ -21,10 +21,6 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário de Bras
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<p align="center">
-  <img src="giphy.gif" width="300" />
-</p>
-
 ---
 
 Atualmente atuo no cargo de:
@@ -34,7 +30,7 @@ Atualmente atuo no cargo de:
 
 ---
 
-## 📫 Entre em contato:
+## Entre em contato:
  
 <div> 
   <a href="https://www.instagram.com/henriqrsg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
