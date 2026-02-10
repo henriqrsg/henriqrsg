@@ -4,7 +4,7 @@
 
 Sou estudante de **Ciência da Computação** no **Centro Universitário de Brasília (UniCEUB)**, apaixonado por tecnologia, inovação e soluções computacionais. Durante minha jornada acadêmica, venho desenvolvendo projetos práticos nas áreas de desenvolvimento de software, algoritmos e modelagem matemática.
 
-<div align="center"><br>
+<div align="left"><br>
   <img alt="Js" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Ts" height="30" width="40"
