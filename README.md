@@ -21,6 +21,9 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário de Bras
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<p align="center">
+  <img src="giphy.gif" width="300" />
+</p>
 
 ---
 
