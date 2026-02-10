@@ -1,6 +1,6 @@
 #  Oláá! Me chamo Luiz Henrique!
 
-## Sobre mim
+## Sobre mim:
 
 Sou estudante de **Ciência da Computação** no **Centro Universitário de Brasília (UniCEUB)**, apaixonado por tecnologia, inovação e soluções computacionais. Durante minha jornada acadêmica, venho desenvolvendo projetos práticos nas áreas de desenvolvimento de software, algoritmos e modelagem matemática.
 
@@ -39,6 +39,8 @@ Atualmente atuo no cargo de:
   <a href="https://www.linkedin.com/in/luiz-henrique-641a61364/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<br>
 
 <p align="left">
   <img src="giphy.gif" width="300" />
