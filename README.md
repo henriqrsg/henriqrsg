@@ -33,5 +33,8 @@ Atualmente atuo no cargo de:
   
 </div>
 
+<p align="left">
+  <img src="giphy.gif" width="300" />
+</p>
 
 
