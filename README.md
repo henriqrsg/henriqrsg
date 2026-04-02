@@ -25,6 +25,8 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário de Bras
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="MySql" height="30" width="40"
     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img alt="Ansible" height="30" width="40"
+    src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
 </div>
 
 ---
