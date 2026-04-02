@@ -21,6 +21,8 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário de Bras
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Java" height="30" widht="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Php" height="30" widht="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 ---
