@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-Sou estudante de **Ciência da Computação** no **Centro Universitário de Brasília (UniCEUB)**, apaixonado por tecnologia, inovação e soluções computacionais. Durante minha jornada acadêmica, venho desenvolvendo projetos práticos nas áreas de desenvolvimento de software, algoritmos e modelagem matemática.
+<p style="text-align: justify;">Sou estudante de <strong>Ciência da Computação</strong> no <strong>Centro Universitário de Brasília (UniCEUB)</strong>, apaixonado por tecnologia, inovação e soluções computacionais. Durante minha jornada acadêmica, venho desenvolvendo projetos práticos nas áreas de desenvolvimento de software, algoritmos e modelagem matemática.</p>
 
 <div align="left"><br>
   <img alt="Js" height="30" width="40"
@@ -30,7 +30,7 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário de Bras
 Atualmente atuo no cargo de:
 
 - **Agente de Pesquisas do IBGE**  
-  Trabalho diretamente na coleta e análise de dados estatísticos que contribuem para o planejamento e a execução de políticas públicas no Brasil. Essa experiência fortalece minha visão crítica e capacidade de lidar com grandes volumes de dados de forma estruturada.
+  <p style="text-align: justify;">Trabalho diretamente na coleta e análise de dados estatísticos que contribuem para o planejamento e a execução de políticas públicas no Brasil. Essa experiência fortalece minha visão crítica e capacidade de lidar com grandes volumes de dados de forma estruturada.</p>
 
 ---
 
