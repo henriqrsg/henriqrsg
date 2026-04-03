@@ -25,6 +25,14 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário de Bras
     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img alt="Ansible" height="30" width="40"
     src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
+  <img alt="Pandas" height="30" width="40"
+    src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img alt="Numpy" height="30" width="40"
+    src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  <img alt="Matplotlib" height="30" width="40"
+    src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
+  <img alt="Scikit-learn" height="30" width="40"
+    src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
 </div>
 
 ---
