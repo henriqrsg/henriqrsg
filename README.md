@@ -55,7 +55,7 @@ Atualmente atuo no cargo de:
 
 <br>
 
-<p align="left">
+<p align="center">
   <img src="giphy.gif" width="300" />
 </p>
 
