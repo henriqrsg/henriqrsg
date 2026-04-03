@@ -15,8 +15,6 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário de Bras
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Java" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Php" height="30" width="40"
@@ -25,6 +23,8 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário de Bras
     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img alt="Ansible" height="30" width="40"
     src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
+  <img alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Pandas" height="30" width="40"
     src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img alt="Numpy" height="30" width="40"
