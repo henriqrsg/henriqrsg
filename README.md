@@ -4,36 +4,22 @@
 
 Sou estudante de **Ciência da Computação** no **Centro Universitário de Brasília (UniCEUB)**, apaixonado por tecnologia, inovação e soluções computacionais. Durante minha jornada acadêmica, venho desenvolvendo projetos práticos nas áreas de desenvolvimento de software, algoritmos e modelagem matemática.
 
-<div align="center"><br>
-  <img alt="Js" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Ts" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Java" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Php" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img alt="MySql" height="30" width="40"
-    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img alt="Ansible" height="30" width="40"
-    src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
-  <img alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Pandas" height="30" width="40"
-    src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img alt="Numpy" height="30" width="40"
-    src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img alt="Matplotlib" height="30" width="40"
-    src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
-  <img alt="Scikit-learn" height="30" width="40"
-    src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
-</div>
+<p align="center">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
+</p>
 
 ---
 
