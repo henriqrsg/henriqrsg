@@ -22,8 +22,6 @@ Sou estudante de **Ciência da Computação** no [Centro Universitário de Bras�
 
 <img alt="henriqrsg Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=henriqrsg&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/henriqrsg/henriqrsg/output/github-contribution-grid-snake-dark.svg" />
 </div>
