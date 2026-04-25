@@ -18,7 +18,11 @@ Sou estudante de **Ciência da Computação** no [Centro Universitário de Bras�
   </a>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/henriqrsg/henriqrsg/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://instagram.com/henriqrsg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
@@ -34,7 +38,3 @@ Sou estudante de **Ciência da Computação** no [Centro Universitário de Bras�
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/tIeCLkB8geYtW/giphy.gif" width="250" alt="Thumbs up kid" />
-</div>
