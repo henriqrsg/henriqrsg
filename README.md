@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá!%20Sou%20o%20Luiz%20Henrique%20&fontSize=50&fontAlignY=38&desc=Estudante%20de%20Ciência%20da%20Computação%20%7C%20Desenvolvedor&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,java,php,mysql,py,cpp,git,github" />
-  </a>
-</div>
-
 ### Sobre mim
 
 Sou estudante de **Ciência da Computação** no [Centro Universitário de Brasília (UniCEUB)](https://www.uniceub.br/), apaixonado por inovação e soluções computacionais que geram impacto real. 
@@ -15,6 +9,20 @@ Sou estudante de **Ciência da Computação** no [Centro Universitário de Bras�
 * **O que faço hoje:** Trabalho diretamente na coleta e análise de dados estatísticos no **IBGE**, contribuindo para o planejamento de políticas públicas no Brasil.
 * **O que estou aprendendo:** Focado em aprimorar minhas habilidades em desenvolvimento de software, algoritmos e modelagem matemática.
 * **Habilidade Especial:** Transformar grandes volumes de dados não estruturados em informações valiosas com visão crítica.
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=435&lines=LINGUAGENS+E+TECNOLOGIAS+QUE+UTILIZO!" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,java,php,mysql,py,cpp,git,github" />
+  </a>
+</div>
 
 <br><br>
 
