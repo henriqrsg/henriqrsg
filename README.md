@@ -10,7 +10,7 @@ Sou estudante de **Ciência da Computação** no [Centro Universitário de Bras�
 * **O que estou aprendendo:** Focado em aprimorar minhas habilidades em desenvolvimento de software, algoritmos e modelagem matemática.
 * **Habilidade Especial:** Transformar grandes volumes de dados não estruturados em informações valiosas com visão crítica.
 
----
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
