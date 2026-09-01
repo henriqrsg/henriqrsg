@@ -15,18 +15,18 @@
 
 <br>
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Ciência da Computação** no [Centro Universitário de Brasília (UniCEUB)](https://www.uniceub.br/), apaixonado por inovação e soluções computacionais que geram impacto real.
 
-- 🏢 **O que faço hoje:** trabalho diretamente na coleta e análise de dados estatísticos no **IBGE**, contribuindo para o planejamento de políticas públicas no Brasil.
-- 📚 **O que estou aprendendo:** aprimorando minhas habilidades em desenvolvimento de software, algoritmos e modelagem matemática.
-- 🧠 **Habilidade especial:** transformar grandes volumes de dados não estruturados em informações valiosas com visão crítica.
+- **O que faço hoje:** trabalho diretamente na coleta e análise de dados estatísticos no **IBGE**, contribuindo para o planejamento de políticas públicas no Brasil.
+- **O que estou aprendendo:** aprimorando minhas habilidades em desenvolvimento de software, algoritmos e modelagem matemática.
+- **Habilidade especial:** transformar grandes volumes de dados não estruturados em informações valiosas com visão crítica.
 
 <br>
 
 <details open>
-<summary><b>🛠️ Stack e ferramentas</b> — clique para expandir/recolher</summary>
+<summary><b> Stack e ferramentas</b> — clique para expandir/recolher</summary>
 <br>
 
 <div align="center">
@@ -36,7 +36,7 @@ Sou estudante de **Ciência da Computação** no [Centro Universitário de Bras�
 </details>
 
 <details>
-<summary><b>📊 Estatísticas do GitHub</b> — clique para expandir/recolher</summary>
+<summary><b>Estatísticas do GitHub</b> — clique para expandir/recolher</summary>
 <br>
 
 <div align="center">
@@ -55,7 +55,7 @@ Sou estudante de **Ciência da Computação** no [Centro Universitário de Bras�
 
 <div align="center">
 
-### 📫 Vamos nos conectar!
+### Vamos nos conectar!
 
 <a href="https://instagram.com/henriqrsg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:luizhrsguedes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
